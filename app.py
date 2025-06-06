@@ -1,3 +1,5 @@
+import os
+os.environ["COQUI_TOS_AGREED"] = "1"  # Important: Required for XTTS v2 license
 
 import streamlit as st
 import os
