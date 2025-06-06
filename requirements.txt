@@ -1,6 +1,5 @@
-
 streamlit
 TTS==0.22.0
 resemblyzer
 numpy
-torch
+torch==2.1.0
