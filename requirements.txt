@@ -1,0 +1,6 @@
+
+streamlit
+TTS==0.22.0
+resemblyzer
+numpy
+torch
